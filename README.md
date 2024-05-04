@@ -1,9 +1,9 @@
-### Hola, soy Mario 👋
+### Hola, soy Mario Castillo 👋
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología con experiencia en machine learning y procesamiento de lenguaje natural (NLP). Aquí podrás encontrar mis proyectos y contribuciones relacionados con estos campos.
 
 <div align="center">
-  <a href="https://github.com/TuUsuario">
+  <a href="https://github.com/MarioCastilloSan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioCastilloSan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCastilloSan&layout=compact"/>
   </a>
@@ -26,12 +26,13 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología con experi
 
 Soy un entusiasta del aprendizaje automático (ML) y el procesamiento de lenguaje natural (NLP). Utilizo varias bibliotecas populares para construir modelos avanzados y análisis de datos. Algunas de las tecnologías que utilizo incluyen:
 
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 - ![SciKit Learn](https://img.shields.io/badge/SciKit%20Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![spaCy](https://img.shields.io/badge/spaCy-%2300A98F.svg?style=for-the-badge&logo=spaCy&logoColor=white)
 - ![NLTK](https://img.shields.io/badge/NLTK-%234A4A4A.svg?style=for-the-badge&logo=NLTK&logoColor=white)
 - ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-
 
 ### Extras 
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)&nbsp;
