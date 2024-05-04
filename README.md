@@ -1,4 +1,4 @@
-### Hola, soy [Tu Nombre] 👋
+### Hola, soy Mario 👋
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología con experiencia en machine learning y procesamiento de lenguaje natural (NLP). Aquí podrás encontrar mis proyectos y contribuciones relacionados con estos campos.
 
