@@ -35,20 +35,7 @@ Soy un entusiasta del aprendizaje automático (ML) y el procesamiento de lenguaj
 - ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
-### Simulación visual de una red neuronal
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <!-- Capa de entrada -->
-    <div style="text-align: center;">
-        <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #666; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#00aaff';" onmouseout="this.style.backgroundColor='#666';"></div>
-        <div style="margin-top: 10px;">Entrada 1</div>
-        <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #666; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#00aaff';" onmouseout="this.style.backgroundColor='#666';"></div>
-        <div style="margin-top: 10px;">Entrada 2</div>
-    </div>
-    
-
-
-</div>
 
 
 
