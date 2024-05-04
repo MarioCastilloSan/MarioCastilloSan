@@ -40,6 +40,6 @@ Soy un entusiasta del aprendizaje automático (ML) y el procesamiento de lenguaj
 
 ### Contacto
 
-Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/TuPerfilLinkedIn/) o enviándome un [correo electrónico](mailto:TuCorreo@ejemplo.com).
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi [perfil de LinkedIn]((https://www.linkedin.com/in/mariocastillosan/)) o enviándome un [correo electrónico](mailto:mariocastillosan@gmail.com).
 
 ¡Gracias por visitar mi perfil!
