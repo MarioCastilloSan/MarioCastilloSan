@@ -1,7 +1,6 @@
 ### Hola, soy Mario Castillo 👋
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología con experiencia en machine learning y procesamiento de lenguaje natural (NLP). Aquí podrás encontrar mis proyectos y contribuciones relacionados con estos campos.
-
+Me gusta el machine learning y procesamiento de lenguaje natural (NLP). 
 <div align="center">
   <a href="https://github.com/MarioCastilloSan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioCastilloSan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
